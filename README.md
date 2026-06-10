@@ -1,5 +1,5 @@
 
-![I am an Aspiring AI/ML Engineer and Developer](https://media.licdn.com/dms/image/v2/D5616AQHsobwCiD8BRw/profile-displaybackgroundimage-shrink_350_1400/B56Z6xqgV2KcAY-/0/1781097170618?e=1782950400&v=beta&t=dMUY6ufMSeSDB1NS-CJuZtCI9NxM0DNoKFKj8IdZYgM)
+![Graduate in AI/ML](https://github.com/Bhavishas2725/Bhavishas2725/blob/main/treee.jpeg)
 ### Hi there 👋, My Name is Bhavisha!
 ## I am an Aspiring AI/ML Engineer and Developer
 
