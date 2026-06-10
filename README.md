@@ -1,10 +1,13 @@
-### Hi there 👋, My Name is Bhavisha!
-#### I am an Aspiring AI/ML Engineer and Developer
-![I am an Aspiring AI/ML Engineer and Developer](https://media.licdn.com/dms/image/v2/D5616AQHsobwCiD8BRw/profile-displaybackgroundimage-shrink_350_1400/B56Z6xqgV2KcAY-/0/1781097170618?e=1782950400&v=beta&t=dMUY6ufMSeSDB1NS-CJuZtCI9NxM0DNoKFKj8IdZYgM)
 
+![I am an Aspiring AI/ML Engineer and Developer](https://media.licdn.com/dms/image/v2/D5616AQHsobwCiD8BRw/profile-displaybackgroundimage-shrink_350_1400/B56Z6xqgV2KcAY-/0/1781097170618?e=1782950400&v=beta&t=dMUY6ufMSeSDB1NS-CJuZtCI9NxM0DNoKFKj8IdZYgM)
+### Hi there 👋, My Name is Bhavisha!
+## I am an Aspiring AI/ML Engineer and Developer
+
+## About Me
  Fresh AI/ML graduate with hands-on research experience in medical imaging and wildlife computer vision. Interned internationally at **KMUTT Bangkok** designed and deployed deep learning systems using PyTorch, YOLOv8, and GANs for clinical and ecological applications.
 
-Skills: PYTHON / SQL / HTML / CSS / PyTorch / TensorFlow / Scikit-learn /  OpenCV /  FastAPI / Pandas / NumPy / Matplotlib Streamlit.
+## Skills: 
+PYTHON / SQL / HTML / CSS / PyTorch / TensorFlow / Scikit-learn /  OpenCV /  FastAPI / Pandas / NumPy / Matplotlib Streamlit.
 
 - 🔭 I’m currently working on Advanced LLMs, RAG Systems, Agentic AI, MLOps 
 - 🌱 I’m currently learning I/ML Projects, Computer Vision Applications, Full-Stack AI Solutions 
@@ -13,6 +16,9 @@ Skills: PYTHON / SQL / HTML / CSS / PyTorch / TensorFlow / Scikit-learn /  OpenC
 - 📫 How to reach me: LinkedIn: bhavishasiva- | Email: bhavishasiva272@example.com 
 - 😄 Pronouns: She/Her 
 
+
+## Examples of Work:
+<img src=""  width="256" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bhavishas2725)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bhavishasiva-//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bhavi.shas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bhavishas.netlify.app/)  
 
