@@ -1,12 +1,9 @@
-
 ![Graduate in AI/ML](https://github.com/Bhavishas2725/Bhavishas2725/blob/main/treee.jpeg)
-### Hi there 👋, My Name is Bhavisha!
-## I am an Aspiring AI/ML Engineer and Developer
-
+### Hi there, I'm Bhavisha!
 ## About Me
  Fresh AI/ML graduate with hands-on research experience in medical imaging and wildlife computer vision. Interned internationally at **KMUTT Bangkok** designed and deployed deep learning systems using PyTorch, YOLOv8, and GANs for clinical and ecological applications.
 
-## Skills: 
+## Skills 
 PYTHON / SQL / HTML / CSS / PyTorch / TensorFlow / Scikit-learn /  OpenCV /  FastAPI / Pandas / NumPy / Matplotlib Streamlit.
 
 - 🔭 I’m currently working on Advanced LLMs, RAG Systems, Agentic AI, MLOps 
@@ -18,7 +15,7 @@ PYTHON / SQL / HTML / CSS / PyTorch / TensorFlow / Scikit-learn /  OpenCV /  Fas
 
 
 ## Examples of Work:
-<img src=""  width="256" />
+<a href="https://bhavishas.netlify.app/" target="_blank"></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bhavishas2725)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bhavishasiva-//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bhavi.shas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bhavishas.netlify.app/)  
 
