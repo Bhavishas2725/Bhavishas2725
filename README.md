@@ -6,8 +6,8 @@
 ## Skills 
 PYTHON / SQL / HTML / CSS / PyTorch / TensorFlow / Scikit-learn /  OpenCV /  FastAPI / Pandas / NumPy / Matplotlib Streamlit.
 
-- 🔭 I’m currently working on Advanced LLMs, RAG Systems, Agentic AI, MLOps 
-- 🌱 I’m currently learning I/ML Projects, Computer Vision Applications, Full-Stack AI Solutions 
+- 🔭 I’m currently working on Advanced LLMs, Agentic AI, MLOps 
+- 🌱 I’m currently learning IA/ML Projects, Computer Vision Applications, Full-Stack AI Solutions 
 - 👯 I’m looking to collaborate on Open Source AI Projects, Computer Vision Research, Generative AI Applications 
 - 🤔 I’m looking for help with MLOps Deployment, Scalable AI Systems, Research Collaborations 
 - 📫 How to reach me: LinkedIn: bhavishasiva- | Email: bhavishasiva272@example.com 
