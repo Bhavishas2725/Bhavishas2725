@@ -1,4 +1,4 @@
-![Graduate in AI/ML](https://github.com/Bhavishas2725/Bhavishas2725/blob/main/treee.jpeg)
+![Graduate in AI/ML](https://github.com/Bhavishas2725/Bhavishas2725/blob/main/1781103219845.jpeg)
 ### Hi there, I'm Bhavisha!
 ## About Me
   Hi, I'm Bhavisha S — a B.E. Computer Science (AI & ML) graduate 
